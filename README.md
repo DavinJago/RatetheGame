@@ -12,7 +12,7 @@ Please excuse any limitations or simplicity, as this project is intended as a ba
 * Basic user profile system
 * And several other features
 
-## Contributos
+## Contributors
 - Davin (CSS)
 - Hamzah (HTML)
 - Rizky (JS & Auth)
