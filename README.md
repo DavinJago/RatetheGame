@@ -43,7 +43,7 @@ Even though the project is placed inside xampp/htdocs, Laravel still requires:
 
 ```php artisan serve```
 
-because Laravel uses its own development server.\
+because Laravel uses its own development server.
 
 ## Notes : the game page is not finished yet due to deadline.
 
