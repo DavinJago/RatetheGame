@@ -10,7 +10,7 @@
 Rate The Game is a web application focused on video game ratings, similar to platforms like IMDb, IGN, and Metacritic — but in a simpler version.
 This project allows users to rate games freely, view detailed game information, explore upcoming and newly released games, read the latest gaming news, and access several other basic features.
 
-Please excuse any limitations or simplicity, as this project is intended as a basic full-stack practice project.
+> Please excuse any limitations or simplicity, as this project is intended as a basic full-stack practice project.
 
 ## Features 🪶
 * Display newly released and upcoming games
